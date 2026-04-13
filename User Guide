@@ -1,3 +1,7 @@
+##Run main.py to start up the application
+##First start up will create data folder automatically for data storage
+
+**How To Use
 A) Add Transation part:
   1.Input Date of transaction in 'Date' box, with format in (YYYY-MM-DD), wrong format will result in error and retry is needed.
   2.Choose Kind (Income / Expense) by clicking the dropdown menu.
