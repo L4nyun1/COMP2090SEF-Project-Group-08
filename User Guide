@@ -1,0 +1,32 @@
+A) Add Transation part:
+  1.Input Date of transaction in 'Date' box, with format in (YYYY-MM-DD), wrong format will result in error and retry is needed.
+  2.Choose Kind (Income / Expense) by clicking the dropdown menu.
+  3.Choose Category (Salary, Rent etc) by clicking the dropdown menu.
+  4.Input the amount of transaction (HKD), non-number will result in error.
+  5.Enter Note (Remarks if needed, leave blank if not needed).
+  6. Press ADD button, transaction recrd will be shown in the box below.
+
+B) Add Filters:
+  1.Choose the prefered month by clicking the dropdown menu (Only months with transaction record can be chosen)
+  2.Select category by clicking the dropdown menu ( 'ALL' if all categories are desired).
+  3.Select kind by clicking the dropdown menu ( 'ALL' if all kinds are desired).
+  4. Press Clear Filters button if reset is needed.
+
+C) Delete Records:
+  1.Click on the disired to be deleted, press Delete Selected button to remove record.
+  2.Click Delete All if all records needed to be removed.
+
+D) Summary:
+  1. Net balance is shown with Income - Expenese.
+  2. Expense by category is shown in the bottom left box.
+
+E) Budget Set:
+  1. Choose Category by clicking the dropdown menu ( All if total budget is disired).
+  2. Click on Set Budget Limit button.
+  3. Input the amount ( Non-numbers are not excepted).
+  4. Budget status according to categories will be shown in the bottom right box.
+F) Budget Removal:
+  1. Choose Category by clicking the dropdown menu ( All if total budget is disired).
+  2. Click on Remove Limit button, budget limits will be cleared.
+
+
